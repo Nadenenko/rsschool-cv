@@ -11,5 +11,3 @@ I have no experience in programming.
 ***
 
 My current English level is A2. But when I am in company with a foreigner, I get along well with him and we understand each other. I just need more practice. 
-
-
