@@ -1,2 +1,2 @@
-https://GITHUB-nadenenko.github.io/rsschool-cv/cv
+https://nadenenko.github.io/rsschool-cv/cv
 
