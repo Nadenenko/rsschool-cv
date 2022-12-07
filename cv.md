@@ -2,8 +2,8 @@
 # Nadenenko Daria
 
  ![Nadenenko photo](/images/my_photo.jpg)
- 
-* dasha.k0211@gmail.com
+
+* [Dasha.k0211@gmail.com](dasha.k0211@gmail.com)
 * +79110804540
 * +995595446053
 
