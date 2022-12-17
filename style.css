@@ -1,9 +1,18 @@
-body {
-    /* background-color: #ff0; */
-    margin-top: 100px;
-
+@font-face {
+    font-family: ChivoMono-Italic-VariableFont;
+    src: url(assets/fonts/static/ChivoMono-Italic-VariableFont.ttf);
 }
-
+* {
+    box-sizing: border-box;
+  }
+body {
+    font-family: 'Chivo Mono', monospace;
+    margin-top: 100px;
+}
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
 .name {
     font-size: 30px;
 }
@@ -16,14 +25,15 @@ body {
     padding: 0 20px;
     line-height: 50px;
     color: black;
+
 }
 
 .nav-list {
     display: flex;
     align-items: center;
     list-style: none;
-    
-     
+
+
 }
 
 html {
@@ -31,11 +41,16 @@ html {
 }
 
 .header {
-    background-color: rgb(182, 245, 245);
+    background-color: rgb(241, 182, 245);
     border: 5px solid;
 }
 
 .nav-item {
     font-size: larger;
-    }
-    
+}
+
+.main {
+    background-color: rgb(233, 196, 255);
+}
+
+.photo {}
