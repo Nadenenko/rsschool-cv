@@ -1,31 +1,41 @@
-body{
+body {
     /* background-color: #ff0; */
     margin-top: 100px;
+
 }
 
-.name{
+.name {
     font-size: 30px;
 }
 
-.contacts{
+.contacts {
     font-size: 20px;
 }
+
 .nav-link {
     padding: 0 20px;
     line-height: 50px;
-  }
-  .nav-list {
-    display: flex;
-    justify-content: flex-end;
-    align-items: center;
-  }
-  html {
-    scroll-behavior: smooth; 
-  }
-  .nav-list {
-    list-style: none;
-  }
-  .header { 
-  background-color: rgb(182, 245, 245);
-  border: 5px solid;
+    color: black;
 }
+
+.nav-list {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    
+     
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.header {
+    background-color: rgb(182, 245, 245);
+    border: 5px solid;
+}
+
+.nav-item {
+    font-size: larger;
+    }
+    
