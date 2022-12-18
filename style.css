@@ -9,10 +9,6 @@ body {
     font-family: 'Chivo Mono', monospace;
     margin-top: 100px;
 }
-.container {
-    max-width: 1440px;
-    margin: 0 auto;
-  }
 .name {
     font-size: 30px;
 }
